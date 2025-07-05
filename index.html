@@ -87,9 +87,10 @@
     width: 100%; 
     margin-bottom: 0;
   }
-  a {
-    word-break: break-word; /* уже есть, но этого мало */
-    overflow-wrap: anywhere; /* добавь это */
+  a[href^="mailto:"] {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  white-space: normal;
   }
   .profile-pic {
     display: block;
