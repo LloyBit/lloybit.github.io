@@ -1,8 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
   <div>
-    <h1>Дмитрий Кривопуск</h1>
-    <p><strong>Python-разработчик</strong></p>
+    <h1><strong>Python-разработчик</strong></h1>
     <p>
       📧 <a href="mailto:krivopusk.mitya@gmail.com">krivopusk.mitya@gmail.com</a><br>
       🌐 <a href="https://github.com/LloyBit">GitHub: LloyBit</a><br>
