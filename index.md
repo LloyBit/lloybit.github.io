@@ -12,7 +12,7 @@
   </div>
 
   <div>
-    <img src="pfp.png" alt="Фото Дмитрия" width="180" style="border-radius: 10px;">
+    <img src="pfp.png" width="200" style="border-radius: 10px;">
   </div>
 
 </div>
