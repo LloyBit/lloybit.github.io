@@ -1,10 +1,16 @@
 # Дмитрий Кривопуск
 
-**Python-разработчик**  
+<center>
+
+![Моя фотография](pfp.png){width=200px}
+
+</center>
+
+**Python-разработчик**
 📧 [krivopusk.mitya@gmail.com](mailto:krivopusk.mitya@gmail.com)  
 🌐 [GitHub: LloyBit](https://github.com/LloyBit)  
-🇬🇧 Английский: B2  
 📆 Опыт: 1 год  
+ 🇬🇧 Английский: B2
 
 ---
 
