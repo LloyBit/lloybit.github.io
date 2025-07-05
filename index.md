@@ -1,18 +1,21 @@
-# Дмитрий Кривопуск
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
-<center>
+  <div>
+    <h1>Дмитрий Кривопуск</h1>
+    <p><strong>Python-разработчик</strong></p>
+    <p>
+      📧 <a href="mailto:krivopusk.mitya@gmail.com">krivopusk.mitya@gmail.com</a><br>
+      🌐 <a href="https://github.com/LloyBit">GitHub: LloyBit</a><br>
+      📆 Опыт: 1 год<br>
+      🗽 Английский: B2
+    </p>
+  </div>
 
-![Моя фотография](pfp.png){width=200px}
+  <div>
+    <img src="pfp.png" alt="Фото Дмитрия" width="180" style="border-radius: 10px;">
+  </div>
 
-</center>
-
-**Python-разработчик**
-📧 [krivopusk.mitya@gmail.com](mailto:krivopusk.mitya@gmail.com)  
-🌐 [GitHub: LloyBit](https://github.com/LloyBit)  
-📆 Опыт: 1 год  
- 🇬🇧 Английский: B2
-
----
+</div>
 
 ## 🧠 Обо мне
 
