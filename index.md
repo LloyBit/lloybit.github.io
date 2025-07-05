@@ -1,9 +1,15 @@
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+  }
+</style>
 
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
   <div>
     <h1><strong>Python-разработчик</strong></h1>
     <p>
-      📧 <a href="mailto:krivopusk.mitya@gmail.com">krivopusk.mitya@gmail.com</a><br>
+      📧 <a>krivopusk.mitya@gmail.com</a><br>
       🌐 <a href="https://github.com/LloyBit">GitHub: LloyBit</a><br>
       📆 Опыт: 1 год<br>
       🗽 Английский: B2
@@ -11,9 +17,8 @@
   </div>
 
   <div>
-    <img src="pfp.png" width="200" style="border-radius: 10px;">
+    <img src="pfp.png" width="200" style="border: 1px solid #444; border-radius: 16px;">
   </div>
-
 </div>
 
 ## 🧠 Обо мне
@@ -67,4 +72,3 @@ Backend-разработчик на Python с опытом создания API 
 
 - **СПбГЭУ**, Бакалавр, _Прикладная информатика_ (2022 — 2026)
 - **«Поколение Python»**, курс для начинающих (2020)
-
